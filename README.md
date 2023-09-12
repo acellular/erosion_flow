@@ -10,7 +10,7 @@ copyright            : (C) 2023 by Michael Tuck
 email                : contact@michaeltuck.com
 MIT LICENCE
 
-#### Example output
+### Example output
 Using USPED, run with a DEM and single values for R, K and C:
 
 ![USPED sample output](USPEDexample.jpg)
