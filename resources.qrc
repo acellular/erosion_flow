@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/plugins/erosion_flow" >
         <file>icon.png</file>
+        <file>lsarea_icon.png</file>
+        <file>RUSLE_icon.png</file>
+        <file>USPED_icon.png</file>
     </qresource>
 </RCC>

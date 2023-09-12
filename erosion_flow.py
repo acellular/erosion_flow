@@ -60,9 +60,9 @@ class ErosionFlowPlugin(object):
 
     def initGui(self):
         # Create a new action for running the plugin
-        self.LSArea = QAction(QIcon(':/plugins/erosion_flow/icon.png'), "ErosionFlow::LS Area", self.iface.mainWindow())
-        self.RUSLE = QAction(QIcon(':/plugins/erosion_flow/icon.png'), "ErosionFlow::RUSLE", self.iface.mainWindow())
-        self.USPED = QAction(QIcon(':/plugins/erosion_flow/icon.png'), "ErosionFlow::USPED", self.iface.mainWindow())
+        self.LSArea = QAction(QIcon(':/plugins/erosion_flow/lsarea_icon.png'), "ErosionFlow::LS Area", self.iface.mainWindow())
+        self.RUSLE = QAction(QIcon(':/plugins/erosion_flow/RUSLE_icon.png'), "ErosionFlow::RUSLE", self.iface.mainWindow())
+        self.USPED = QAction(QIcon(':/plugins/erosion_flow/USPED_icon.png'), "ErosionFlow::USPED", self.iface.mainWindow())
         self.LSArea.triggered.connect(self.run_LSArea)
         self.RUSLE.triggered.connect(self.run_RUSLE)
         self.USPED.triggered.connect(self.run_USPED)
