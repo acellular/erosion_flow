@@ -1,4 +1,4 @@
-# Hydro Erosion Processing Plugin Set
+# Erosion Flow
  
 A QGIS plugin providing processing algorithms calculating length-slope area,
 RUSLE (Revised Universal Soil Loss Equation),
@@ -11,7 +11,7 @@ email                : contact@michaeltuck.com
 MIT LICENCE
 
 ### Example output
-Using USPED, run with a DEM and single values for R, K and C:
+Using USPED, styled with red for erosion and blue for deposition
 
 ![USPED sample output](USPEDexample.jpg)
 
