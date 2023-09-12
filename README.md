@@ -25,7 +25,7 @@ Optional inputs (as single values or rasters):
 
 Processing Options: Length-slope factor (LS), RUSLE, USPED
 
-###Factors for RUSLE (Revised Universal Soil Loss Equation) and USPED (Unit Stream Power Based Erosion/Deposition model)
+### Factors for RUSLE (Revised Universal Soil Loss Equation) and USPED (Unit Stream Power Based Erosion/Deposition model)
 
 RUSLE model uses the upslope contributing area equation for LS from Moore and Burch (1986) 
 USPED model follows the Mitasova et al. implementation here: http://fatra.cnr.ncsu.edu/~hmitaso/gmslab/denix/usped.html
