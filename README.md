@@ -14,7 +14,7 @@ MIT LICENCE
 Put this folder in your QGIS plugins folder, restart QGIS if needed, enable from the "Manage and Install Plugins" dialog
 Adds processing tools in both the Processing Toolbox and as icons on the toolbar
 Plugins folder on Windows is typically found in:
-<DRIVELETTER>:\Users\<YOURUSERNAME>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
+C:\Users\<YOURUSERNAME>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
 
 ### Example output
 Using USPED, styled with red for erosion and blue for deposition
