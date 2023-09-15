@@ -34,10 +34,10 @@ Processing Options: Length-slope factor (LS), RUSLE, USPED
 
 ### Factors for RUSLE and USPED
 
-RUSLE model uses the upslope contributing area equation for LS from Moore and Burch (1986) 
+RUSLE model uses the upslope contributing area equation for LS from Moore and Burch (1986).
 USPED model follows the Mitasova et al. implementation here: http://fatra.cnr.ncsu.edu/~hmitaso/gmslab/denix/usped.html
 
-RUSLE and USPED use the same factors. Default values my be
+RUSLE and USPED use the same factors. Default values may be
 used for soil, rainfall and cover factors in RUSLE AND USPED,
 though aquiring or calculating real raster data is highly recommended for accurate results.
 
