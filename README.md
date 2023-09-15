@@ -1,4 +1,4 @@
-# Erosion Flow
+# ErosionFlow
  
 A QGIS plugin providing processing algorithms calculating length-slope area,
 RUSLE (Revised Universal Soil Loss Equation),
