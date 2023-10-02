@@ -5,15 +5,15 @@ RUSLE (Revised Universal Soil Loss Equation),
 and USPED (Unit Stream Power Based Erosion/Deposition model)
 for erosion analysis on DEMs (digital elevation models)
 
-begin                : 2023-03-28
-copyright            : (C) 2023 by Michael Tuck
-email                : contact@michaeltuck.com
-MIT LICENCE
+begin                : 2023-03-28  
+copyright            : (C) 2023 by Michael Tuck  
+email                : contact@michaeltuck.com  
+MIT LICENCE  
 
 ### Installation
-Put this folder in your QGIS plugins folder, restart QGIS if needed, enable from the "Manage and Install Plugins" dialog
-Adds processing tools in both the Processing Toolbox and as icons on the toolbar
-Plugins folder on Windows is typically found in:
+Put this folder in your QGIS plugins folder, restart QGIS if needed, enable from the "Manage and Install Plugins" dialog.  
+Adds processing tools in both the Processing Toolbox and as icons on the toolbar.  
+Plugins folder on Windows is typically found in:  
 
 WINDOWSDRIVE :\Users\YOURUSERNAME\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
 
@@ -24,11 +24,11 @@ Using USPED, styled with red for erosion and blue for deposition
 
 ### I/O
 
-Requied input: DEM with filled sinks
-Optional inputs (as single values or rasters):
- - rainfall intensity factor (R)
- - erodibility factor (K)
- - land cover factor (C)
+Requied input: DEM with filled sinks  
+Optional inputs (as single values or rasters):  
+ - rainfall intensity factor (R)  
+ - erodibility factor (K)  
+ - land cover factor (C)  
 
 Processing Options: Length-slope factor (LS), RUSLE, USPED
 
